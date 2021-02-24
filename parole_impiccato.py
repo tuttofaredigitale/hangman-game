@@ -1,0 +1,22 @@
+lista_parole = [
+'asso', 
+'america', 
+'ancora', 
+'alfabeto', 
+'analisi', 
+'aperto', 
+'battere', 
+'bagnino', 
+'battello', 
+'bicchiere', 
+'cannone', 
+'canoa', 
+'capperi', 
+'canzone', 
+'cenone', 
+'citronella', 
+'comodino', 
+'dente', 
+'dinosauro', 
+'drappo'
+]
