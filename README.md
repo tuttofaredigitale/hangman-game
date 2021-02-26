@@ -2,7 +2,7 @@
 [ITA]<br>
 Una semplice versione del gioco dell'impiccato creata con Python.
 
-L'unica libreria utilizzata è quella casuale. 
+L'unica libreria utilizzata è random. 
 
 [ENG]<br>
 A simple version of the hangman game created with Python.
